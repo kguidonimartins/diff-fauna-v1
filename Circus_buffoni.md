@@ -25,8 +25,8 @@ aproximadamente 60% da EOO da espécie foi convertida em áreas de pastagens, 7%
 
 ## INFORMAÇÕES GERAIS
 
-*Circus buffoni* é um gavião de porte médio, com comprimento entre 46 e 60 cm e massa corporal entre 390 e 464 g (Bierregaard & Kirwan 2020). A espécie é quase sempre registrada em voo, planando baixo em busca de presas sobre uma ampla variedade de ecossistemas, incluindo áreas campestres, úmidas, além de pastagens e arrozais, sendo de fácil detecção nos locais onde ocorre (Pallinger & Menq 2021). Entre suas presas, estão incluídas pequenas aves e mamíferos, além de anfíbios, répteis e, em menor proporção, insetos (Bó *et al.* 1996; Pallinger & Menq 2021). A espécie utiliza o estrato herbáceo denso e alto das árvores para construir seu ninho, uma plataforma feita com material vegetal, onde deposita de 2 a 4 ovos (Pallinger & Menq 2021). Também pode nidificar em colônias (Pallinger & Menq 2021). Populações no extremo sul de sua distribuição são migratórias, mas informações insuficientes impedem a determinação do status migratório, residente ou
-invernante no Brasil (Bierregaard & Kirwan 2020). Não há informações sobre estrutura e dinâmica populacional desta espécie. Entretanto, sabe-se que é rara e local no leste do Brasil e, geralmente, possui baixa densidade populacional (Bierregaard & Kirwan 2020; Silveira *et al.* 2023). O tempo geracional estimado é de 7,8 anos (BirdLife International 2024).
+*Circus buffoni* é um gavião de porte médio, com comprimento entre 46 e 60 cm e massa corporal entre 390 e 464 g (Bierregaard *et al.* 2020). A espécie é quase sempre registrada em voo, planando baixo em busca de presas sobre uma ampla variedade de ecossistemas, incluindo áreas campestres, úmidas, além de pastagens e arrozais, sendo de fácil detecção nos locais onde ocorre (Pallinger & Menq 2021). Entre suas presas, estão incluídas pequenas aves e mamíferos, além de anfíbios, répteis e, em menor proporção, insetos (Bó *et al.* 1996; Pallinger & Menq 2021). A espécie utiliza o estrato herbáceo denso e alto das árvores para construir seu ninho, uma plataforma feita com material vegetal, onde deposita de 2 a 4 ovos (Pallinger & Menq 2021). Também pode nidificar em colônias (Pallinger & Menq 2021). Populações no extremo sul de sua distribuição são migratórias, mas informações insuficientes impedem a determinação do status migratório, residente ou
+invernante no Brasil (Bierregaard *et al.* 2020). Não há informações sobre estrutura e dinâmica populacional desta espécie. Entretanto, sabe-se que é rara e local no leste do Brasil e, geralmente, possui baixa densidade populacional (Bierregaard *et al.* 2020; Silveira *et al.* 2023). O tempo geracional estimado é de 7,8 anos (BirdLife International 2024).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -38,7 +38,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Espírito Santo: VU (Espírito Santo 2022)
 
@@ -56,9 +56,9 @@ Estudos sobre a dinâmica populacional e reprodutiva da espécie, incluindo pesq
 
 ## REFERÊNCIAS
 
-Bierregaard, R.O. & Kirwan, G.M. (2020). [*Long-winged Harrier (Circus buffoni), version 1.0.*](https://doi.org/10.2173/bow.lowhar1.01) *Birds of the World*. Cornell Lab of Ornithology.
+Bierregaard, R.O., G. M. Kirwan & Christie, D.A. (2020). [*Long-winged Harrier (Circus buffoni)*](https://doi.org/10.2173/bow.whnhaw2.01). 10º edn. Cornell Lab of Ornithology, Ithaca, NY, USA.
 
-BirdLife International. (2024). [Species factsheet: Circus buffoni](http://datazone.birdlife.org/species/factsheet/long-winged-harrier-circus-buffoni).
+BirdLife International. (2024). *Species factsheet: Circus buffoni*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/long-winged-harrier-circus-buffoni.](http://datazone.birdlife.org/species/factsheet/long-winged-harrier-circus-buffoni) Acesso em 11 de abril de 2023.
 
 Bó, M.S., Cicchino, S.M. & Martínez, M.M. (1996). Diet of long-winged harrier (Circus buffoni) in southeastern Buenos Aires Province, Argentina. *Journal of Raptor Research*, 30, 273--239.
 
@@ -68,10 +68,10 @@ Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declar
 
 Ferguson-Lees, J. & Christie, D.A. (2001). *Raptors of the World*.  Houghton Mifflin Company.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
-Silveira, L.F., Lopes, E.V. & Costa, T.V.V. da. (2023). [Circus buffoni (Gmelin, 1788)](https://doi.org/10.37002/salve.ficha.29767).
+Silveira, L.F., Lopes, E.V. & Costa, T.V.V. (2023). *Circus buffoni (Gmelin, 1788)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.29767.](https://doi.org/10.37002/salve.ficha.29767) Acesso em 11 de abril de 2023.

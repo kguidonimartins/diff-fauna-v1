@@ -41,15 +41,13 @@ A espécie tem ocorrência nos seguintes estados do Brasil: AL, MS, MT, RR, RO, 
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; FLONA de Goytacazes; PE Serra do Brigadeiro; MONA dos Pontões Capixabas; PN da Serra do Gandarela; RPPN Recanto das Antas; APA Morro da Pedreira; PE do Itacolomi; RPPN Mutum Preto; APA Sul-RMBH; PE Sete Salões; APA Serra do Timóteo
+A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; FLONA de Goytacazes; PE Serra do Brigadeiro; MONA dos Pontões Capixabas; PARNA da Serra do Gandarela; RPPN Recanto das Antas; APA Morro da Pedreira; PE do Itacolomi; RPPN Mutum Preto; APA Sul-RMBH; PE Sete Salões; APA Serra do Timóteo
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Espécie listada nos PANs: Aves da Caatinga - 2º ciclo (CEMAVE 2019), Baixo e Méio Xingu (CEPAM 2012), PAN Grandes Felinos (ICMBio 2018c), PAN Onça-Parda (CENAP 2014). Espécie beneficiada nos PATs Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020), Chapada Diamantina-Serra da Jiboia (Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA 2021) e Veredas Goyaz-Geraes (Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG 2021).
 
@@ -68,7 +66,7 @@ Pesquisas para estimar tamanho populacional, distribuição, tendências, ameaç
 
 ## REFERÊNCIAS
 
-Azevedo, F.C., Saranholi, B.H., Dias, D.M., Eizirik, E., Mazim, F.D., Abra, F.D., *et al.* (2023). [Puma concolor](https://doi.org/10.37002/salve.ficha.14019.2). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+Azevedo, F.C., Saranholi, B.H., Dias, D.M., Eizirik, E., Mazim, F.D., Abra, F.D., *et al.* (2023). *Puma concolor*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.14019.2.](https://doi.org/10.37002/salve.ficha.14019.2) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
@@ -78,15 +76,15 @@ CENAP. (2014). *Plano de Ação Nacional para a Conservação da Onça-parda*. I
 
 CEPAM. (2012). *Plano de Ação Nacional para Conservação das Espécies Endêmicas Ameaçadas de Extinção da Fauna da Região do Baixo e Médio Xingu*. ICMBio, Brasília.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Di Bitetti, M.S., De Angelo, C.D., Di Blanco, Y.E. & Paviolo, A. (2010).  Niche partitioning and species coexistence in a Neotropical felid assemblage. *Acta Oecologica*, 36, 403--412.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Gonzalez-Borrajo, N., López-Bao, J.V. & Palomares, F. (2016). Spatial ecology of jaguars, pumas, and ocelots: a review of the state of knowledge. *Mammal review*, 47, 62--75.
+Gonzalez-Borrajo, N., López-Bao, J.V. & Palomares, F. (2016). [Spatial ecology of jaguars, pumas, and ocelots: a review of the state of knowledge](https://doi.org/10.1111/mam.12081). *Mammal review*, 47, 62--75.
 
 ICMBio. (2018c). Plano de Ação Nacional para a Conservação dos Grandes Felinos - 1 Ciclo.
 
@@ -98,6 +96,6 @@ IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https:/
 
 Magioli, M. & Ferraz, K.M.P.M. de B. (2021). Deforestation leads to prey shrinkage for an apex predator in a biodiversity hotspot. *Mammal Research*, 66, 245--255.
 
-Nielsen, T., C. (2015). [Puma concolor](https://doi.org/10.2305/iucn.uk.2015-4.rlts.t18868a50663436.en).  *IUCN Red List of Threatened Species*.
+Nielsen, T., C. (2015). [Puma concolor (errata version published in 2016)](https://doi.org/10.2305/iucn.uk.2015-4.rlts.t18868a50663436.en).  *The IUCN Red List of Threatened Species 2015: e.T18868A97216466*.
 
 Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.

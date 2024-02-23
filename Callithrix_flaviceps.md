@@ -36,11 +36,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: CR (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: RE (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Global: CR (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: RE (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
 **PATs/PANs**: Listada no PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a) e considerada espécie beneficiada no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
 
@@ -64,17 +62,17 @@ Coimbra-Filho, A.F. (1981). Callithrix flaviceps (Thomas, 1903) recorded from Mi
 
 Coimbra-Filho, A.F. (1986). Sagüi-da-serra Callithrix flaviceps (Thomas, 1903). *FBCN/Inf.*, 10, 3.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Hirsch, A. (2003). Avaliação da fragmentação do habitat e seleção de áreas prioritárias para a conservação dos primatas na bacia do rio Doce, Minas Gerais, através da aplicação de um sistema de informações geográficas. Tese de {Doutorado}. Tese (Doutorado em Ecologia).  Universidade Federal de Minas Gerais., Belo Horizonte.
+Hirsch, A. (2003). *Avaliação da fragmentação do habitat e seleção de áreas prioritárias para a conservação dos primatas na bacia do rio Doce, Minas Gerais, através da aplicação de um sistema de informações geográficas*. Tese (Doutorado em Ecologia). Universidade Federal de Minas Gerais, Belo Horizonte.
 
 ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
 
-ICMBio. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos. Em: *In: Instituto Chico Mendes de Conservação da Biodiversidade. (Org.). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção*. ICMBio, Brasília, p. 622.
+ICMBio. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (org. ICMBio). ICMBio, Brasília, p. 622.
 
 Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
 
@@ -82,7 +80,7 @@ IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https:/
 
 Melo, F.R., Hilário, R.R., Ferraz, D.S., Pereira, D.G., Bicca-Marques, J.C., Jerusaliunsky, L., *et al.* (2021). [Callithrix flaviceps (amended version of 2020 assessment)](https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T3571A191700879.en).  *The IUCN Red List of Threatened Species 2021: e.T3571A191700879.*
 
-Mendes, C.S.L. & Melo, F.R. (2007). Situação atual do sagüi-da-serra (Callithrix flaviceps) em fragmentos florestais na Zona da Mata de Minas Gerais. Em: *In: J. C. Bicca-Marques (ed.), A Primatologia no Brasil - 10*. Porto Alegre, p. 163--180.
+Mendes, C.S.L. & Melo, F.R. (2007). Situação atual do sagüi-da-serra (Callithrix flaviceps) em fragmentos florestais na Zona da Mata de Minas Gerais. Em: *A Primatologia no Brasil - 10* (org. Bicca-Marques, J.C.).  Porto Alegre, p. 163--180.
 
 Possamai, C.B., Mendes, S.L. & Strier, K.B. (2019). Decline of a primate community following a yellow fever outbreak in the Brazilian Atlantic Forest. Em: *42nd meeting of the American Society of Primatologists*.
 

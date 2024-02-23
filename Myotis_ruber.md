@@ -38,7 +38,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: NT (IUCN 2023) -   Nacional: LC (Brasil 2022)
 
@@ -58,11 +58,11 @@ Pesquisas sobre história de vida, ecologia, tamanho da população, distribuiç
 
 ## REFERÊNCIAS
 
-Bernard, E., Gama, A.R. da, Gomes, A.M.E., Santos, C.L.C. dos, Fischer, E.A., Jesus Cordero Schmidt, E. de, *et al.* (2023). [Myotis ruber (É.  Geoffroy, 1806)](https://doi.org/10.37002/salve.ficha.20504).
+Bernard, E., Gama, A.R. da, Gomes, A.M.E., Santos, C.L.C. dos, Fischer, E.A., Jesus Cordero Schmidt, E. de, *et al.* (2023). *Myotis ruber (É.  Geoffroy, 1806)*. Disponível em: [https://doi.org/10.37002/salve.ficha.20504.](https://doi.org/10.37002/salve.ficha.20504) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
@@ -72,8 +72,8 @@ Reis, N.R. dos, Peracchi, A.L., Pedro, W.A. & Lima, I.P. de. (2007).  *Morcegos 
 
 Sbragia, I.A. & Pessôa, L.M. (2008). New record of a vulnerable bat, Myotis ruber (E. Geoffroy, 1806)(Chiroptera: Vespertilionidae) in the Caatinga biome, northeastern Brazil. *Mammalian Biology*, 73, 233--237.
 
-Solari, S. (2019). [Myotis ruber](https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T14197A22062092.en).  *IUCN Red List of Threatened Species*.
+Solari, S. (2019). *Myotis ruber*. *The IUCN Red List of Threatened Species 2019: e.T14197A22062092*. Disponível em: [http://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T14197A22062092.en.](http://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T14197A22062092.en) Acesso em 11 de abril de 2023.
 
-Sousa, M.A.N., Langguth, A. & Gimenez, E. do A. (2004). Mamíferos dos brejos de altitude Paraíba e Pernambuco. Em: *Brejos de altitude em Pernambuco e Paraíba: história natural, ecologia e conservação*.  Ministério do Meio Ambiente - MMA, Brasília, p. 229--254.
+Sousa, M.A.N., Langguth, A. & Gimenez, E. do A. (2004). Mamíferos dos brejos de altitude Paraíba e Pernambuco. Em: *Brejos de altitude em Pernambuco e Paraíba: história natural, ecologia e conservação*. MMA, Brasília, p. 229--254.
 
 Weber, M.M., Terribile, L.C. & Caceres, N.C. (2010). [Potential geographic distribution of Myotis ruber (Chiroptera, Vespertilionidae), a threatened Neotropical bat species](https://doi.org/10.1515/mamm.2010.037). *Mammalia*, 74, 333--338.

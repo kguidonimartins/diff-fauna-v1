@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni, Ana Carolina Srbek-Araujo e Marcelo Magioli
 
-![Fonte: Malene Thyssen - Wikimedia](media/image4.jpg){width="6.486111111111111in" height="4.1260247156605425in"}
+![Fonte: Malene Thyssen - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="4.1260247156605425in"}
 
-Fonte: *Malene Thyssen - Wikimedia*
+Fonte: *Malene Thyssen - Wikimedia Commons*
 
 **Nomes populares**: gato-maracajá, gato-do-mato, maracajá-peludo
 
@@ -36,20 +36,13 @@ Espécie não endêmica do Brasil, com ampla distribuição, ocorrendo desde a z
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; RPPN Recanto das Antas; RPPN Mutum Preto; APA Sul-RMBH; PN do Caparaó
+A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; RPPN Recanto das Antas; RPPN Mutum Preto; APA Sul-RMBH; PARNA do Caparaó
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: NT (IUCN 2023)
-
--   Nacional: VU (Brasil 2022)
-
--   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
-
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: NT (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Espécie listada nos PANs Lagoas do Sul (ICMBio 2018), Baixo e Médio Xingu (CEPAM 2012) e Pequenos Felinos (CENAP 2022). É considerada espécie beneficiada no PAT Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020).
 
@@ -68,29 +61,29 @@ Pesquisas relacionadas ao tamanho populacional, distribuição, tendências.
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [**Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.**](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-CENAP. (2022). [**Plano de Ação Nacional para Conservação dos Pequenos Felinos -- PAN Pequenos Felinos (2º ciclo)**](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  *PORTARIA ICMBIO Nº 493, DE 21 DE JUNHO DE 2022*.
+CENAP. (2022). [Plano de Ação Nacional para Conservação dos Pequenos Felinos -- PAN Pequenos Felinos (2º ciclo)](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  *PORTARIA ICMBIO Nº 493, DE 21 DE JUNHO DE 2022*.
 
 CEPAM. (2012). *Plano de Ação Nacional para Conservação das Espécies Endêmicas Ameaçadas de Extinção da Fauna da Região do Baixo e Médio Xingu*. ICMBio, Brasília.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Espírito Santo. (2022). [**Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências**](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
+Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. Instituto Chico Mendes de Conservação da Biodiversidade.
+ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. ICMBio.
 
 Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-IUCN. (2023). [**The IUCN Red List of Threatened Species. Version 2023-1.**](https://www.iucnredlist.org.)
+IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
 Oliveira, T.G. de, Tortato, M.A., Silveira, L., Kasper, C.B., Mazim, F.D., Lucherini, M., *et al.* (2010). Ocelot ecology and its effect in the small-felid guild in the lowland Neotropics. Em: *Biology and Conservation of Wild Felids* (orgs. Loveridge, D.W. & Macdonald, A.).  Oxford University Press, Oxford., p. 563--584.
 
-Oliveira, T.G., Mazim, F.D., Guilherme, M.B.F., Silva, R.C. & Tirelli, F.P. (2023). [**Leopardus wiedii**](https://doi.org/10.37002/salve.ficha.14009.2). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Oliveira, T.G., Mazim, F.D., Guilherme, M.B.F., Silva, R.C. & Tirelli, F.P. (2023). [Leopardus wiedii](https://doi.org/10.37002/salve.ficha.14009.2). *SALVE*.
 
-Oliveira, T., Paviolo, A., Schipper, J., Bianchi, R. & Payan, E. (2015).  [**Leopardus wiedii.**](https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T11511A50654216.en.)  *The IUCN Red List of Threatened Species*.
+Oliveira, T., Paviolo, A., Schipper, J., Bianchi, R. & Payan, E. (2015).  *Leopardus wiedii*. *The IUCN Red List of Threatened Species 2015: e.T11511A50654216*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T11511A50654216.en.](https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T11511A50654216.en) Acesso em 11 de abril de 2023.
 
 Tortato, M.A., Oliveira, T.G., Almeida, L.B. & Beisiegel, B.M. (2013).  Avaliação do risco de extinção do gato-maracajá Leopardus wiedii (Schinz, 1821) no Brasil. *Biodiversidade Brasileira*, 5, 76--83.
 

@@ -31,14 +31,13 @@ de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: APA Sul-RMBH; PN da Serra do Cipó; RPPN Santuário da Serra do Caraça
+A espécie está presente nas seguintes unidades de conservação: APA Sul-RMBH; PARNA da Serra do Cipó; RPPN Santuário da Serra do Caraça
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: VU (COPAM 2010)
 
 **PATs/PANs**: Listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Pequenos Mamíferos de Áreas Florestais. É considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
@@ -56,11 +55,11 @@ Pesquisas relacionadas à distribuição, ecologia e história natural, tamanho 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. ICMBio, Brasília.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 

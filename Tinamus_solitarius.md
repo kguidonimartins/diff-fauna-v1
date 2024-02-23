@@ -41,11 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: NT (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: NT (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Listada no PAN Aves da Mata Atlântica (ICMBio 2017) e considerada beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
@@ -63,15 +61,15 @@ Pesquisas relacionadas ao monitoramento de tamanho e tendência populacional sã
 
 Amaral, F. & Silveira, L. (2004). Tinamus solitarius pernambucensis Berla, 1946 é sinônimo de Tinamus solitarius (Vieillot, 1819).  *Ararajuba*, 12, 33--41.
 
-BirdLife International. (2019). [Tinamus solitarius](https://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22678139A136639334.en).  *The IUCN Red List of Threatened Species 2019: e.T22678139A136639334.*
+BirdLife International. (2019). *Tinamus solitarius*. *The IUCN Red List of Threatened Species 2019: e.T22678139A136639334.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22678139A136639334.en.](https://dx.doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22678139A136639334.en) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Cabot, J. (1992). Family Tinamidae. Em: *In J. del Hoyo; A. Elliott e J.  Sargatal (Eds.). Handbook of the birds of the world. Ostrich to Ducks*.  Lynx Edicions, Barcelona, España, p. 112--138.
+Cabot, J. (1992). Family Tinamidae. Em: *Handbook of the birds of the world. Ostrich to Ducks* (orgs. del Hoyo, J., Elliott, A. & Sargatal, J.). Lynx Edicions, Barcelona, España, p. 112--138.
 
 Chebez, J.C. (1990). Nuestras aves amenazadas. 22. El macuco (Tinamus solitarius). *Nuestras aves*, 8, 5--8.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Dias, L.C.S., Bernardo, C.S.S. & Srbek-Araujo, A.C. (2016). [Daily and Seasonal Activity Patterns of the Solitary Tinamou ( *Tinamus solitarius* ) in the Atlantic Forest of Southeastern Brazil](https://doi.org/10.1676/15-157.1). *The Wilson Journal of Ornithology*, 128, 885--894.
 
@@ -79,7 +77,7 @@ Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declar
 
 Ferreguetti, Á.C., Pereira-Ribeiro, J., Tomas, W.M., Bergallo, H.G. & Rocha, C.F.D. (2018). [Density, habitat use, and activity patterns of a vulnerable population of the Solitary Tinamou ( *Tinamus solitarius* ) in a Brazilian Atlantic Forest fragment](https://doi.org/10.1139/cjz-2017-0153). *Canadian Journal of Zoology*, 96, 245--252.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
@@ -91,12 +89,12 @@ Kuhnen, V.V., Lima, R.E.M. de, Santos, J.F. & Machado Filho, L.C.P.  (2013). [Ha
 
 Lowen, J.C., Baertrina, L., Clay, R.P. & Tobias, J.A. (1996).  *Biological surveys and conservation priorities in eastern Paraguay*.  CSB Conservation Publications, Cambridge, UK.
 
-Parker III, T.A., Stotz, D.F. & Fitzpatrick, T.A. (1996). Ecological and distributional databases. Em: *In D.F. Stotz; J.W. Fitzpatrick; T.A.  Parker III e D.K. Moskovits (Eds.), Neotropical birds: ecology and conservation*. The University of Chicago Press, Chicago, p. 115--131.
+Parker III, T.A., Stotz, D.F. & Fitzpatrick, T.A. (1996). Ecological and distributional databases. Em: *Neotropical birds: ecology and conservation* (orgs. Stotz, D.F., Fitzpatrick, J.W., Parker III, T.A. & Moskovits, D.K.). The University of Chicago Press, Chicago, p. 115--131.
 
 Sick, H. (1997). *Ornitologia brasileira*. Ed. rev. e ampliada por José Fernando Pacheco. Editora Nova Fronteira, Rio de Janeiro.
 
 Stotz, D.F., Fitzpatrick, J.W., Parker III, T.A. & Moskovits, D.K.  (Orgs.). (1996). *Neotropical birds: ecology and conservation*.  University of Chicago Press, Chicago.
 
-Vasconcelos, M.F. de. (2019). Tinamus solitarius (Vieillot, 1819). Em: *In: Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (org.). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce.* Fundação Renova/Bicho do Mato Instituto de Pesquisa., p. 216--216.
+Vasconcelos, M.F. de. (2019). Tinamus solitarius (Vieillot, 1819). Em: *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce* (orgs. Cäsar, C., Oliveira, L. de C.O. & Câmara, T.). Fundação Renova/Bicho do Mato Instituto de Pesquisa., p. 216--216.
 
-WikiAves. (2023). [macuco (Tinamus solitarius)](https://www.wikiaves.com.br/wiki/macuco).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

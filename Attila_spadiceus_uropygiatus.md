@@ -35,7 +35,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
@@ -57,12 +57,12 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). [*Attila spadiceus uropygiatus (Wied, 1831)*](https://doi.org/10.37002/salve.ficha.24454.2). Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). *Attila spadiceus uropygiatus (Wied, 1831)*. *SALVE*. Disponível em: [https://salve.icmbio.gov.br/salve/api/pdf/doi/382b574f73347872452b77383535307574712f6f31483341796e6d354a5848745a395336673957674f734d3d.](https://salve.icmbio.gov.br/salve/api/pdf/doi/382b574f73347872452b77383535307574712f6f31483341796e6d354a5848745a395336673957674f734d3d) Acesso em 11 de abril de 2023.
 
-Walther, B. (2004). [Bright-rumped Attila (Attila spadiceus)](https://birdsoftheworld.org/hbw/species/brratt1/1.0). Em: *in (J. del Hoyo, A. Elliott, J. Sargatal, D. A. Christie, and E. de Juana, Editors). Handbook of the Birds of the World Alive*. Lynx Edicions, Barcelona.
+Walther, B. (2004). [Bright-rumped Attila (Attila spadiceus)](https://birdsoftheworld.org/hbw/species/brratt1/1.0). Em: *Handbook of the Birds of the World Alive* (orgs. del Hoyo, J., Elliott, A., Sargatal, J., Christie, D. A. & Juana, E. de). Lynx Edicions, Barcelona.
 
-WikiAves. (2023). [capitão-de-saíra-amarelo (Attila spadiceus)](http://www.wikiaves.com.br/wiki/capitao-de-saira-amarelo).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

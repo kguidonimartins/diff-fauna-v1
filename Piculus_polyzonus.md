@@ -41,7 +41,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -65,9 +65,9 @@ Cavarzere, V., Albano, C., Tonetti, V.R., Pacheco, J.F., Whitney, B.M. & Silveir
 
 Del-Rio, G., Silveira, L.F., Cavarzere, V. & Rêgo, M.A. (2013). [A taxonomic review of the Golden-green Woodpecker, Piculus chrysochloros (Aves: Picidae) reveals the existence of six valid taxa](https://doi.org/10.11646/zootaxa.3626.4.7). *Zootaxa*, 3626, 531--542.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Gomes, P.S. (2018). [\[WA3203393, Piculus polyzonus (Valenciennes, 1826)\]](http://www.wikiaves.com/3203393). *Wiki Aves - A Enciclopédia das Aves do Brasil.*
+Gomes, P.S. (2018). *Piculus polyzonus (Valenciennes, 1826)*. *Wiki Aves - A Enciclopédia das Aves do Brasil.* Disponível em: [http://www.wikiaves.com/3203393.](http://www.wikiaves.com/3203393) Acesso em 11 de abril de 2023.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 

@@ -25,8 +25,8 @@
 
 ## INFORMAÇÕES GERAIS
 
-*Callicebus personatus* é um primata encontrado exclusivamente nas formações florestais (Melo *et al.* 2018). Sua dieta é principalmente frugívora, consumindo principalmente as sementes de frutos verdes, mas inclui folhas e flores em pequenas quantidades (Price & Piedade 2001). A extensão da área de vida dessa espécie foi estimada em uma faixa que varia de 4,7 a 12,3 hectares (Kinzey & Becker 1983; Price & Piedade 2001; Melo *et al.* 2018). Embora o tamanho exato da população total remanescente seja desconhecido, suspeita-se que o número de indivíduos maduros pertencentes a essa espécie seja inferior a 10.000, com menos de 1.000 indivíduos maduros em cada subpopulação (Melo *et al.* 2018; Melo 2021). Acredita-se que a população tenha sofrido um declínio de pelo menos 30% devido a várias ameaças, incluindo perda e fragmentação de habitat e seus efeitos sinérgicos (Melo *et al.* 2018). Os grupos que compõem o gênero *Callicebus* geralmente consistem em um
-casal reprodutor em união monogâmica a longo prazo (Melo *et al.* 2018). Dados sobre o tamanho dos grupos em *Callicebus personatus* foram coletados de diferentes locais. No Espírito Santo, os tamanhos reportados variaram de 6 a 3,44 indivíduos por grupo; em Minas Gerais, as estimativas obtidas variaram entre 1,7 a 2,9 indivíduos por grupo (Melo *et al.* 2018). As informações sobre a abundância populacional variam, com densidades de 24,3 indivíduos a 6,4 indivíduos por km² diferentes áreas do Espírito Santo (Melo *et al.* 2018). O tempo de geração estimado da espécie é de 8 anos. Há registros da espécie sendo coletada para comércio ilegal.
+*Callicebus personatus* é um primata encontrado exclusivamente nas formações florestais (Melo *et al.* 2018). Sua dieta é principalmente frugívora, consumindo principalmente as sementes de frutos verdes, mas inclui folhas e flores em pequenas quantidades (Price & Piedade 2001). A extensão da área de vida dessa espécie foi estimada em uma faixa que varia de 4,7 a 12,3 hectares (Kinzey & Becker 1983; Price & Piedade 2001; Melo *et al.* 2018). Embora o tamanho exato da população total remanescente seja desconhecido, suspeita-se que o número de indivíduos maduros pertencentes a essa espécie seja inferior a 10.000, com menos de 1.000 indivíduos maduros em cada subpopulação (Melo *et al.* 2018; Jerusalinsky 2020). Acredita-se que a população tenha sofrido um declínio de pelo menos 30% devido a várias ameaças, incluindo perda e fragmentação de habitat e seus efeitos sinérgicos (Melo *et al.* 2018).  Os grupos que compõem o gênero *Callicebus* geralmente consistem
+em um casal reprodutor em união monogâmica a longo prazo (Melo *et al.* 2018).  Dados sobre o tamanho dos grupos em *Callicebus personatus* foram coletados de diferentes locais. No Espírito Santo, os tamanhos reportados variaram de 6 a 3,44 indivíduos por grupo; em Minas Gerais, as estimativas obtidas variaram entre 1,7 a 2,9 indivíduos por grupo (Melo *et al.* 2018). As informações sobre a abundância populacional variam, com densidades de 24,3 indivíduos a 6,4 indivíduos por km² diferentes áreas do Espírito Santo (Melo *et al.* 2018). O tempo de geração estimado da espécie é de 8 anos. Há registros da espécie sendo coletada para comércio ilegal.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -38,11 +38,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: VU (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: VU (Espírito Santo 2022)
 
 **PATs/PANs**: PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a).
 
@@ -62,23 +60,23 @@ Pesquisas relacionadas aos requisitos ecológicos da espécie, especialmente no 
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+
+Jerusalinsky, M., L. (2020). *Callicebus personatus (amended version of 2020 assessment)*. *The IUCN Red List of Threatened Species 2021: e.T3555A191700126*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T3555A191700126.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T3555A191700126.en) Acesso em 11 de abril de 2023.
 
 Kinzey, W.G. & Becker, M. (1983). Activity pattern of the masked titi monkey, Callicebus personatus. *Primates*, 24, 337--343.
 
 Kobayashi, S. & Langguth, A. (1999). A new species of titi monkey, Callicebus Thomas, from north-eastern Brazil (Primates, Cebidae).  *Revista Brasileira de Zoologia*, 16, 531--551.
 
 Melo, F.R., Quadros, S., Oliveira, L. de C. & Jerusalinsky, L. (2018).  Callicebus personatus (É. Geoffroy, 1812). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos*. ICMBio, Brasília, p. 298--302.
-
-Melo, Q., F. R. (2021). [Callicebus personatus (amended version of 2020 assessment)](https://doi.org/10.2305/IUCN.UK.2021- 1.RLTS.T3555A191700126.en).  *IUCN Red List of Threatened Species*.
 
 Price, E.C. & Piedade, H.M. (2001). [Diet of Northern Masked Titi Monkeys (Callicebus personatus)](https://doi.org/10.1159/000052750).  *Folia Primatologica*, 72, 335--338.
 

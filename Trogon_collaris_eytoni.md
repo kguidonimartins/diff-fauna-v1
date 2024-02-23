@@ -42,10 +42,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: EN (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: PAN Aves da Mata Atlântica (ICMBio 2017).
 
@@ -61,17 +60,17 @@ Pesquisas relacionadas à distribuição, ameaças, tamanho e tendência populac
 
 ## REFERÊNCIAS
 
-BirdLife. (2023). [BirdLife International IUCN Red List for birds](http://datazone.birdlife.org).
+BirdLife. (2023). *BirdLife International IUCN Red List for birds*.  Disponível em: [http://datazone.birdlife.org.](http://datazone.birdlife.org) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Species factsheet: Trogon collaris](http://datazone.birdlife.org/species/factsheet/collared-trogon-trogon-collaris).  *BirdLife International*.
+BirdLife International. (2023). *Species factsheet: Trogon collaris*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/collared-trogon-trogon-collaris.](http://datazone.birdlife.org/species/factsheet/collared-trogon-trogon-collaris) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-Leal, D.C., Marques, F.P. & Silva, S.B.L. (2018). Nyctibius leucopterus (Wied, 1821). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume III - Aves.* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 189--191.
+Leal, D.C., Marques, F.P. & Silva, S.B.L. (2018). Nyctibius leucopterus (Wied, 1821). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume III - Aves.* (org. ICMBio). ICMBio, Brasília, p.  189--191.
 
 Leite, G.A. (2017). O ninho, ovos e filhotes do surucuá-de-coleira Trogon collaris no rio Juruá, Amazônia. *Cotinga*, 39, 41--42.
 

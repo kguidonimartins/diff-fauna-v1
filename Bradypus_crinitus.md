@@ -42,7 +42,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Espírito Santo: VU (Espírito Santo 2022)
 
@@ -68,15 +68,15 @@ Chiarello, A.G. (1998). [Diet of the Atlantic forest maned sloth *Bradypus torqu
 
 Chiarello, A.G. (2008). *Sloth ecology. An overview of field studies.* University Press of Florida, Gainesville.
 
-Chiarello, A.G., Miranda, F.R., Xavier, G.A.A., Moraes-Barros, N. & Vaz, S.M. (2018). Bradypus torquatus Illiger, 1811. In: ICMBio & MMA. (2018).  Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.*
+Chiarello, A.G., Miranda, F.R., Xavier, G.A.A., Moraes-Barros, N. & Vaz, S.M. (2018). Bradypus torquatus Illiger, 1811. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.* (orgs.  ICMBio & MMA).
 
-Chiarello, A., Santos, P., Moraes-Barros, N. & Miranda, F. (2022).  [Bradypus torquatus.](https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en. ) *The IUCN Red List of Threatened Species*.
+Chiarello, A., Santos, P., Moraes-Barros, N. & Miranda, F. (2022).  *Bradypus torquatus*. *The IUCN Red List of Threatened Species 2022: e.T3036A210442361*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en.](https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en) Acesso em 11 de abril de 2023.
 
 Dias, B.B., Santos, L.A.D., Lara-Ruiz, P., Cassano, C.R., Pinder, L. & Chiarello, A.G. (2009). First observation on mating and reproductive seasonality in maned sloths Bradypus torquatus (Pilosa: Bradypodidae).  *Journal of Ethology*, 27, 97--103.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Hirsch, A. & Chiarello, A.G. (2012). [The endangered maned sloth Bradypus torquatus of the Brazilian Atlantic forest: a review and update of geographical distribution and habitat preferences: Bradypus torquatus distribution](https://doi.org/10.1111/j.1365-2907.2011.00188.x). *Mammal Review*, 42, 35--54.
 

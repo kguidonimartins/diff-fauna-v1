@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022)
 
@@ -55,11 +55,11 @@ Pesquisas sobres tamanho, distribuição e tendências populacionais, bem como s
 
 ## REFERÊNCIAS
 
-Bernard, E., Gama, A.R.D., Gomes, A.M.E., Santos, C.L.C.D., Fischer, E.A., Schmidt, E.D.J.C., *et al.* (2018). [Micronycteris hirsuta (Peters, 1869)](https://doi.org/10.37002/salve.ficha.20480). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Bernard, E., Gama, A.R.D., Gomes, A.M.E., Santos, C.L.C.D., Fischer, E.A., Schmidt, E.D.J.C., *et al.* (2018). *Micronycteris hirsuta (Peters, 1869)*. *SALVE*. Disponível em: [https://salve.icmbio.gov.br/salve/api/fichaHash/4844674a5931346f5636576a756846573254445272773d3d.](https://salve.icmbio.gov.br/salve/api/fichaHash/4844674a5931346f5636576a756846573254445272773d3d) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 

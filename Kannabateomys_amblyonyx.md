@@ -39,11 +39,9 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
@@ -63,19 +61,19 @@ Bonvicino, C.R., Oliveira, J.A. & D'Andrea, P.S. (2008). *Guia dos Roedores do B
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Catzeflis, F., Patton, J., Percequillo, A. & Weksler, M. (2016).  [Euryzygomatomys spinosus](http://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T8418A22205855.en).  *The IUCN Red List of Threatened Species 2016: e.T8418A22205855*.
+Catzeflis, F., Patton, J., Percequillo, A. & Weksler, M. (2016).  *Kannabateomys amblyonyx*. *The IUCN Red List of Threatened Species 2016: e.T8418A22205855*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T10957A22205666.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T10957A22205666.en) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). *Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals*. *Occasional papers in conservation biology*. 2ª Edição. Occasional Papers in Conservation Biology. Conservation International.
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, p. 1--76.
 
 Patton, J.L., Pardiñas, U.F.J. & D'Elía, G. (2015). [*Mammals of South America, Volume 2 - Rodents*](https://doi.org/10.7208/chicago/9780226169606.001.0001).  University of Chicago Press.
 

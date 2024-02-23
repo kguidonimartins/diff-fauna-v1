@@ -33,10 +33,9 @@ A espécie está presente nas seguintes unidades de conservação: APA Sul-RMBH
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (COPAM 2010)
 
 **PATs/PANs**: PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
@@ -52,20 +51,20 @@ Estudos populacionais e ecológicos para conhecer as necessidades de habitats, a
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Amaurospiza moesta](http://datazone.birdlife.org/species/factsheet/blue-seedeater-amaurospiza-moesta).
+BirdLife International. (2023). *Species factsheet: Amaurospiza moesta*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/blue-seedeater-amaurospiza-moesta.](http://datazone.birdlife.org/species/factsheet/blue-seedeater-amaurospiza-moesta) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Costa, F.J.V., Ribeiro, R.E., De Souza, C.A. & Navarro, R.D. (2018).  [Espécies de Aves Traficadas no Brasil](https://doi.org/10.21664/2238-8869.2018v7i2.p324-346).  *Fronteiras: Journal of Social, Technological and Environmental Science*, 7, 324--346.
 
 Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
-Jaramillo, A., Juana, E. de & Kirwan, G.M. (2019). Blue Seedeater (Amaurospiza moesta). Em: *In (del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A., Juana, E. de, Eds). Handbook of the Birds of the World Alive*. Lynx Edicions, Barcelona.
+Jaramillo, A., Juana, E. & Kirwan, G.M. (2019). Blue Seedeater (Amaurospiza moesta). Em: *Handbook of the Birds of the World Alive* (orgs. del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A. & Juana, E. de). Lynx Edicions, Barcelona.
 
 Manhães, M.A. & Loures-Ribeiro, A. (2011). [Avifauna da Reserva Biológica Municipal Poço D'Anta, Juiz de Fora, MG](https://doi.org/10.1590/S1676-06032011000300023). *Biota Neotropica*, 11, 275--286.
 
-Silveira, L.F., Efe, M.A., Costa, T.V.V.D. & Oliveira, T.D.D. (2021).  [*Ficha de Amaurospiza moesta*](https://doi.org/10.37002/salve.ficha.29606). Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio.
+Silveira, L.F., Efe, M.A., Costa, T.V.V. da & Oliveira, T.D. de. (2021).  *Amaurospiza moesta*. *SALVE*. Disponível em: [https://salve.icmbio.gov.br/salve/api/fichaHash/397364784839414965553163324544633673766348673d3d.](https://salve.icmbio.gov.br/salve/api/fichaHash/397364784839414965553163324544633673766348673d3d) Acesso em 11 de abril de 2023.
 
-WikiAves. (2023). [Negrinho do mato (Amaurospiza moesta)](https://www.wikiaves.com.br/wiki/negrinho-do-mato).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

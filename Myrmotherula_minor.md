@@ -37,11 +37,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: PAN Aves da Mata Atlântica (ICMBio 2017).
 
@@ -57,11 +55,11 @@ Pesquisas relacionadas a tamanho e tendência populacional, ecologia e história
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Myrmotherula minor](http://datazone.birdlife.org/species/factsheet/salvadoris-antwren-myrmotherula-minor).  *BirdLife International*.
+BirdLife International. (2023). *Species factsheet: Myrmotherula minor*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/salvadoris-antwren-myrmotherula-minor.](http://datazone.birdlife.org/species/factsheet/salvadoris-antwren-myrmotherula-minor) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 

@@ -38,10 +38,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017) e Aves de Rapina (ICMBio 2008).
 
@@ -61,9 +60,9 @@ Bierregaard, R.O., G. M. Kirwan & Christie, D.A. (2020). [White-necked Hawk (But
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
 
@@ -71,6 +70,6 @@ ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conserva�
 
 Machado, A.B.M., Fonseca, G.A.B., Machado, R.B., Aguiar, L.M.S. & Lins, L.V. (1998). *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção.* Fundaçao Biodiversitas, Belo Horizonte.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). [Amadonastur lacernulatus (Temminck, 1827)](https://doi.org/10.37002/salve.ficha.24273). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). *Amadonastur lacernulatus (Temminck, 1827)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24273.](https://doi.org/10.37002/salve.ficha.24273) Acesso em 11 de abril de 2023.

@@ -40,11 +40,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Não disponível
 
@@ -60,7 +58,7 @@ Pesquisas sobre tendências da população são necessárias para a espécie.
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Crypturellus variegatus](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22678223A92762055.en).  *The IUCN Red List of Threatened Species 2016: e.T22678223A92762055*.
+BirdLife International. (2016). *Crypturellus variegatus*. *The IUCN Red List of Threatened Species 2016: e.T22678223A92762055*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22678223A92762055.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22678223A92762055.en) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
@@ -68,13 +66,13 @@ Cabot, J., Jutglar, F. & Sharpe, C. (2020). [Variegated Tinamou (Crypturellus va
 
 Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
 Fernandes-Ferreira, H., Mendonça, S.V., Albano, C., Ferreira, F.S. & Alves, R.R.N. (2012). Hunting, use and conservation of birds in Northeast Brazil. *Biodiversity and Conservation*, 21, 221--244.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
@@ -84,8 +82,8 @@ Ridgely, R.S., Gwynne, J.A., Tudor, G. & Argel, M. (2015). Guia aves do Brasil: 
 
 Sick, H. (1997). *Ornitologia Brasileira*. 3ª edn. Nova Fronteira.
 
-Silveira, L.F., F., L., Lopes, E.V. & Costa, T.V.V. (2022).  [Crypturellus variegatus (Gmelin, 1789)](https://salve.icmbio.gov.br/salve/). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., F., L., Lopes, E.V. & Costa, T.V.V. (2022).  [Crypturellus variegatus (Gmelin, 1789)](https://salve.icmbio.gov.br/salve/). *SALVE*.
 
 Stotz, D.F. (1996). *Neotropical birds: ecology and conservation*.  University of Chicago Press.
 
-WikiAves. (2023). [Inhambu-anhangá (Crypturellus variegatus)](https://www.wikiaves.com.br/wiki/inhambu-anhanga).  *WikiAves, a Enciclopédia das Aves do Brasil*.
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

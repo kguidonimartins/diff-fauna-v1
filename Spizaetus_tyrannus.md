@@ -54,11 +54,11 @@ Pesquisas relacionadas a tamanho e tendência populacional, história natural e 
 
 ## REFERÊNCIAS
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
 Quintero, I. & Jácome, A. (2020). [Black Hawk-Eagle (Spizaetus tyrannus)](https://doi.org/10.2173/bow.blheag1.01). Em: *Birds of the World* (org. Schulenberg, T.S.). Cornell Lab of Ornithology.
 

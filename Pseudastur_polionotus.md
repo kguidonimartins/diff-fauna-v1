@@ -40,11 +40,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: NT (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: NT (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Minas Gerais: CR (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Listada nos PANs Aves da Mata Atlântica (ICMBio 2017), Aves de Rapina (ICMBio 2008) e considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
@@ -60,17 +58,17 @@ Pesquisas relacionadas a tamanho e tendência populacional, história natural e 
 
 ## REFERÊNCIAS
 
-BirdLife International. (2021). [Pseudastur polionotus](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T22695795A201166836.en).  *The IUCN Red List of Threatened Species 2021: e.T22695795A201166836.*
+BirdLife International. (2021). *Pseudastur polionotus*. *The IUCN Red List of Threatened Species 2021: e.T22695795A201166836.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T22695795A201166836.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T22695795A201166836.en) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Mantled Hawk (Pseudastur polionotus)](http://datazone.birdlife.org/species/factsheet/22695795).  *BirdLife species factsheet*.
+BirdLife International. (2023). *Species factsheet: Pseudastur polionotus*. *BirdLife species factsheet*. Disponível em: [http://datazone.birdlife.org/species/factsheet/22695795.](http://datazone.birdlife.org/species/factsheet/22695795) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
 
@@ -80,6 +78,6 @@ Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conse
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). [Pseudastur polionotus (Kaup, 1847)](https://salve.icmbio.gov.br/). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). *Pseudastur polionotus (Kaup, 1847)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24788.2.](https://doi.org/10.37002/salve.ficha.24788.2) Acesso em 11 de abril de 2023.

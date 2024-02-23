@@ -39,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
@@ -68,17 +68,17 @@ Cruz, P., De Angelo, C., Martínez Pardo, J., Iezzi, M.E., Varela, D., Di Bitett
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. Instituto Chico Mendes de Conservação da Biodiversidade.
+ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. ICMBio.
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Oliveira, T.G. (1994). Neotropical cats: ecolgy and conservation.
+Oliveira, T.G. (1994). Neotropical cats: ecology and conservation.
 
 Oliveira, T.G. de, Fox-Rosales, L.A., Ramírez-Fernández, J.D., Cepeda-Duque, J.C., Zug, R., Sanchez-Lalinde, C., *et al.* (2024).  Ecological modeling, biogeography, and phenotypic analyses setting the tiger cats' hyperdimensional niches reveal a new species. *Scientific Reports*, 14, 2395.
 
-Oliveira, T., Trigo, T., Tortato, M., Paviolo, A., Bianchi, R. & Leite-Pitman, M.R.P. (2016). Leopardus guttulus. *The IUCN Red List of Threatened Species*.
+Oliveira, T., Trigo, T., Tortato, M., Paviolo, A., Bianchi, R. & Leite-Pitman, M.R.P. (2016). *Leopardus guttulus*. *The IUCN Red List of Threatened Species 2016: e.T54010476A54010576*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T54010476A54010576.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T54010476A54010576.en) Acesso em 11 de abril de 2023.
 
 Trigo, T.C., Oliveira, T.G., Tortato, M.A., Almeida, L.B., Campos, C.B.  & Beisiegel, B.M. (2018). *Leopardus guttulus (Hensel, 1872).* ICMBio & MMA.
 

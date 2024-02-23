@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: RPPN Aves Ger
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
@@ -55,9 +55,9 @@ Pesquisas relacionadas ao tamanho, tendência populacional e distribuição da e
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Scytalopus iraiensis](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en).  *The IUCN Red List of Threatened Species 2016: e.T22728464A94986972*.
+BirdLife International. (2016). *Scytalopus iraiensis*. *The IUCN Red List of Threatened Species 2016: e.T22728464A94986972*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Species factsheet: Marsh Tapaculo (Scytalopus iraiensis)](http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis).
+BirdLife International. (2023). *Species factsheet: Scytalopus iraiensis*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis.](http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 

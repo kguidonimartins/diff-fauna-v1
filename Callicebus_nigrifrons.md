@@ -34,11 +34,11 @@ Espécie endêmica do Brasil, *Callicebus nigrifrons* possui uma ampla distribui
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; ESEC do Tripuí; PE Serra do Brigadeiro; PN da Serra do Gandarela; MONA Estadual de Itatiaia; APA Morro da Pedreira; APA Sul-RMBH
+A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; ESEC do Tripuí; PE Serra do Brigadeiro; PARNA da Serra do Gandarela; MONA Estadual de Itatiaia; APA Morro da Pedreira; APA Sul-RMBH
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: NT (IUCN 2023) -   Nacional: LC (Brasil 2022)
 
@@ -62,7 +62,7 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Jerusalinsky, L., Melo, F.R. de, Mittermeier, R.A., Quadros, S. & Rylands, A.B. (2020). [Callicebus nigrifrons](https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T39943A17973667.en).  *The IUCN Red List of Threatened Species 2020: e.T39943A17973667.*
+Jerusalinsky, L., Melo, F.R. de, Mittermeier, R.A., Quadros, S. & Rylands, A.B. (2020). *Callicebus nigrifrons*. *The IUCN Red List of Threatened Species 2020: e.T39943A17973667.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T39943A17973667.en.](https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T39943A17973667.en) Acesso em 11 de abril de 2023.
 
 Melo, F.R., Quadros, S. & Jerusalinsky, L. (2015). [Avaliação do Risco de Extinção de Callicebus nigrifrons (Spix, 1823) no Brasil](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/estado-de-conservacao/7310-mamiferos-callicebus-nigrifrons-guigo.html).  *Processo de avaliação do risco de extinção da fauna brasileira*.
 

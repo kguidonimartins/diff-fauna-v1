@@ -35,7 +35,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -59,10 +59,10 @@ Curbani, F., Zocca, C., Ferreira, R.B., Waichert, C., Sobrinho, T.G. & Srbek-Ara
 
 Dias, A.M. & Lattke, J.E. (2021). [Large ants are not easy -- the taxonomy of Dinoponera Roger (Hymenoptera: Formicidae: Ponerinae)](https://doi.org/10.5852/ejt.2021.784.1603). *European Journal of Taxonomy*, 784, 1--66.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Parreira, D.S., Batista, L.D., Ribeiro, H.C.B. & Coelho, M.P.A. (2020).  [First Record of Dinoponera lucida (Hymenoptera: Formicidae), in the Northeast Region of the State of Minas Gerais, Brazil](https://doi.org/10.17921/1415-6938.2020v24n1p12-15). *Ensaios e Ciência C Biológicas Agrárias e da Saúde*, 24, 12--15.
 
 Simon, S., Schoereder, J.H. & Teixeira, M.D.C. (2020). [Environmental Response of Dinoponera lucida Emery 1901 (Hymenoptera: Formicidae), an Endemic Threatened Species of the Atlantic Forest Central Corridor](https://doi.org/10.13102/sociobiology.v67i1.3662).  *Sociobiology*, 67, 65.
 
-Simon, S.S., Teixeira, M.D.C. & Salomão, T. (2016). [THE REALLOCATTION OF THE ANT SPECIES Dinoponera lucida EMERY (FORMICIDAE: PONERINAE) POPULATION INCREASING ITS LOCAL GENETIC DIVERSITY](https://doi.org/10.13102/sociobiology.v63i4.1074).  *Sociobiology*, 63, 1058.
+Simon, S.S., Teixeira, M.D.C. & Salomão, T. (2016). [The reallocattion of the ant species Dinoponera lucida Emery (Formicidae: Ponerinae) population increasing its local genetic diversity](https://doi.org/10.13102/sociobiology.v63i4.1074).  *Sociobiology*, 63, 1058.

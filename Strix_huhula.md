@@ -2,9 +2,9 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Jessica Naiara Reis
 
-![Fonte: Norton Defeis - wikimedia](media/rId20.jpg){width="5.67in" height="8.413333333333334in"}
+![Fonte: Norton Defeis - Wikimedia Commons](media/rId20.jpg){width="5.67in" height="8.413333333333334in"}
 
-Fonte: *Norton Defeis - wikimedia*
+Fonte: *Norton Defeis - Wikimedia Commons*
 
 **Nomes populares**: coruja-preta
 
@@ -41,13 +41,13 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023)
 
 **PATs/PANs**: PAN Aves de Rapina (ICMBio 2008).
 
-**CITES**: Apêndice II (como *Ciccaba huhula*) (CITES 2023).
+**CITES**: Apêndice II (como *Ciccaba huhula*) (CITES 2022).
 
 ## PRINCIPAIS AMEAÇAS
 
@@ -59,13 +59,13 @@ Pesquisas relacionadas a tamanho e tendência populacional, bem como distribuiç
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Ciccaba huhula](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22689144A93219904.en).  *The IUCN Red List of Threatened Species 2016: e.T22689144A93219904.*
+BirdLife International. (2016). *Ciccaba huhula*. *The IUCN Red List of Threatened Species 2016: e.T22689144A93219904.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22689144A93219904.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22689144A93219904.en) Acesso em 11 de abril de 2023.
 
 Bornschein, M.R. & Reinert, B.L. (2000). [Aves de três remanescentes florestais do norte do Estado do Paraná, sul do Brasil, com sugestões para a conservação e manejo](https://doi.org/10.1590/S0101-81752000000300008). *Revista Brasileira de Zoologia*, 17, 615--636.
 
-CITES. (2023). [Ciccaba huhula (Daudin, 1800)](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Ciccaba+huhula&page=1&per_page=20).  *Checklist of CITES species*.
+CITES. (2022). [Appendices I, II and III. Valid from 22 june 2022](https://cites.org/eng/app/appendices.php).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
 
@@ -77,6 +77,6 @@ Soares, E.S., Amaral, F.S.R., Carvalho Filho, E.P.M., Granzinolli, M.A., Albuque
 
 Stotz, D.F., Fitzpatrick, J.W., Parker III, T.A. & Moskovits, D.K.  (Orgs.). (1996). *Neotropical birds: ecology and conservation*.  University of Chicago Press, Chicago.
 
-Vasconcelos, M.F. de. (2019). Strix huhula albomarginata (Spix, 1824).  Em: *In: Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (org.). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce.* Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Vasconcelos, M.F. de. (2019). Strix huhula albomarginata (Spix, 1824).  Em: *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce.* (orgs. Cäsar, C., Oliveira, L. de C.O. & Câmara, T.). Fundação Renova/Bicho do Mato Instituto de Pesquisa.
 
-WikiAves. (2023). [Coruja-preta (Strix huhula)](https://www.wikiaves.com.br/wiki/coruja-preta).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

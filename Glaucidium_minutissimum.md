@@ -2,9 +2,7 @@
 
 **Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni e Jessica Naiara Reis
 
-![Fonte: Leonardo Casadei - wikiaves](media/rId20.png){width="6.486111111111111in" height="4.360107174103237in"}
-
-Fonte: *Leonardo Casadei - wikiaves*
+![Fonte: Leonardo Casadei - wikiaves](media/rId20.jpg){width="6.0in" height="4.0in"}![Fonte: Leonardo Casadei - wikiaves](media/rId23.png){width="6.486111111111111in" height="4.360107174103237in"}
 
 **Nomes populares**: caburé-miudinho
 
@@ -44,11 +42,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: VU (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: VU (Espírito Santo 2022)
 
 **PATs/PANs**: PAN Aves de Rapina (ICMBio 2008).
 
@@ -64,19 +60,19 @@ São necessárias pesquisas sobre distribuição geográfica, tamanho e tendênc
 
 ## REFERÊNCIAS
 
-BirdLife International. (2018). [Glaucidium minutissimum](https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22689240A130162980.en).  *The IUCN Red List of Threatened Species 2018: e.T22689240A130162980.*
+BirdLife International. (2018). *Glaucidium minutissimum*. *The IUCN Red List of Threatened Species 2018: e.T22689240A130162980.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22689240A130162980.en.](https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22689240A130162980.en) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Holt, D.W., Berkley, R., Deppe, C., Enríquez, P.L., Petersen, J.L., Salazar, J.L.R., *et al.* (2020). [Least Pygmy-Owl (Glaucidium minutissimum), version 1.0](https://doi.org/10.2173/bow.leapyo1.01).
 
-Holt, D.W., Berkley, R., Deppe, C., Henríquez-Rocha, P.L., Petersen, J.L., Rangel-Salazar, J.L., *et al.* (1999). Family Strigidae: species accounts. Em: *In: del Hoyo et al.. Handbook of the Birds of the World*.  Lynx Edicions, p. 152--242.
+Holt, D.W., Berkley, R., Deppe, C., Henríquez-Rocha, P.L., Petersen, J.L., Rangel-Salazar, J.L., *et al.* (1999). Family Strigidae: species accounts. Em: *Handbook of the Birds of the World* (org. al., del H.  et). Lynx Edicions, p. 152--242.
 
 ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
 
@@ -88,8 +84,8 @@ Ridgely, R.S., Gwynne, J.A., Tudor, G. & Argel, M. (2015). Guia aves do Brasil: 
 
 Sick, H. (1997). *Ornitologia Brasileira*. 3ª edn. Nova Fronteira.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). [Glaucidium minutissimum (Wied, 1830)](https://doi.org/10.37002/salve.ficha.24557). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). *Glaucidium minutissimum (Wied, 1830)*.  *SALVE*. Disponível em: [https://salve.icmbio.gov.br/salve/api/fichaHash/4c51704a437a6152386c6c6a6472326662366f7862673d3d.](https://salve.icmbio.gov.br/salve/api/fichaHash/4c51704a437a6152386c6c6a6472326662366f7862673d3d) Acesso em 11 de abril de 2023.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). [Glaucidium minutissimum (Wied, 1830)](https://doi.org/10.37002/salve.ficha.24557). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). *Glaucidium minutissimum (Wied, 1830)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24557.](https://doi.org/10.37002/salve.ficha.24557) Acesso em 11 de abril de 2023.
 
-WikiAves. (2023). [caburé-miudinho (Glaucidium minutissimum)](https://www.wikiaves.com.br/wiki/cabure-miudinho).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

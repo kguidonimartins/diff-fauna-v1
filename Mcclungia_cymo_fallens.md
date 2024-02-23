@@ -16,7 +16,7 @@ Fonte: *Augusto Rosa*
 
 **Família**: Nymphalidae
 
-**Notas taxonômicas**: A subespécie pode ser confundida com vários Ithomiini de coloração semelhante (transparentes/amarelados) e os imaturos são semelhantes a outros de espécies próximas (Freitas & Almeida 2018).
+**Notas taxonômicas**: A subespécie pode ser confundida com vários Ithomiini de coloração semelhante (transparentes/amarelados) e os imaturos são semelhantes a outros de espécies próximas (Freitas *et al.* 2018).
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -41,11 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: CR (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Nacional: CR (Brasil 2022) -   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
 **PATs/PANs**: Listada nos PANs Lepidópteros (Freitas & Marini-Filho 2011) e Insetos Polinizadores (ICMBio 2022).
 
@@ -63,15 +61,15 @@ Pesquisas e coletas são necessárias para melhor mapear a EOO da espécie, obte
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
 Freitas, A.V.L. & Marini-Filho, O.J. (2011). Plano de ação nacional para conservação dos lepidópteros ameaçados de extinção.
 
-Freitas, O.J.;.M., A. V. L.; Marini-Filho & Almeida, G. (2018). *Livro vermelho da fauna brasileira ameaçada de extinção: Volume VII - Invertebrados*. Instituto Chico Mendes de Conservação da Biodiversidade, Brasília, Brasil.
+Freitas, A.V.L., Marini-Filho, O.J., Mielke, O.H.H., Casagrande, M.M., Brown Jr, K.S., Kaminski, L.A., *et al.* (2018). *Livro vermelho da fauna brasileira ameaçada de extinção: Volume VII - Invertebrados*.  Instituto Chico Mendes de Conservação da Biodiversidade, Brasília, Brasil.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio (Org.). (2011). *Plano de ação nacional para a conservação dos Lepidópteros*. Instituto Chico Mendes de Conservação da Biodiversidade, Brasília.
 

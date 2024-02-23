@@ -37,11 +37,9 @@ A espécie está presente nas seguintes unidades de conservação: MONA Estadual
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Listada nos PANs Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a) e Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016). É considerada espécie beneficiada nos PATs Espinhaço Mineiro (Instituto Estadual de Florestas 2021) e Capixaba-Gerais (Instituto Estadual de Florestas 2023).
 
@@ -64,13 +62,13 @@ Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos d
 
 Chiarello, A.G. (1999). Effects of fragmentation of the Atlantic forest on mammal communities in south-eastern Brazil. *Biological conservation*, 89, 71--82.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. ICMBio, Brasília.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
 
@@ -80,10 +78,10 @@ Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-G
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Martins, W.P. (2005). Distribuição Geográfica e Conservação do Macaco-Prego-de-crista, Cebus robustus (Cebidae, Primates). tese de doutorado. Dissertação de Mestrado em Ecologia, Conservação e Manejo de Vida Silvestre.
+Martins, W.P. (2005). *Distribuição Geográfica e Conservação do Macaco-Prego-de-crista, Cebus robustus (Cebidae, Primates)*. Dissertação de Mestrado em Ecologia, Conservação e Manejo de Vida Silvestre.
 
-Martins, W.P. (2010). Densidade Populacional e Ecologia de um grupo macaco-prego-de-crista (Cebus robustus; Kuhl, 1820) na Reserva Natural Vale. tese de doutorado. Universidade Federal de Minas Gerais.
+Martins, W.P. (2010). [*Densidade Populacional e Ecologia de um grupo macaco-prego-de-crista (Cebus robustus; Kuhl, 1820) na Reserva Natural Vale*](http://hdl.handle.net/1843/BUOS-8MAGGM). Tese de Doutorado.  Universidade Federal de Minas Gerais.
 
 Martins, W.P., Lynch Alfaro, J. & Rylands, A.B. (2017). [Reduced range of the endangered crested capuchin monkey (Sapajus robustus ) and a possible hybrid zone with Sapajus nigritus](https://doi.org/10.1002/ajp.22696). *American Journal of Primatology*, 79, e22696.
 
-Martins, W.P., Melo, F.R., Kierulff, M.C.M., Mittermeier, R.A., Lynch Alfaro, J.W. & Jerusalinsky, L. (2021). [Sapajus robustus (amended version of 2019 assessment)](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T42697A192592444.en).  *IUCN Red List of Threatened Species*.
+Martins, W.P., Melo, F.R., Kierulff, M.C.M., Mittermeier, R.A., Lynch Alfaro, J.W. & Jerusalinsky, L. (2021). *Sapajus robustus (amended version of 2019 assessment)*. *The IUCN Red List of Threatened Species 2021: e.T42697A192592444*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T42697A192592444.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T42697A192592444.en) Acesso em 11 de abril de 2023.

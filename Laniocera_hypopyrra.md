@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Espírito Santo: CR (Espírito Santo 2022)
 
@@ -55,13 +55,13 @@ Há lacunas significativas de conhecimento em relação aos seus hábitos alimen
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Laniocera hypopyrra](http://datazone.birdlife.org/species/factsheet/cinereous-mourner-laniocera-hypopyrra).  *BirdLife International*.
+BirdLife International. (2023). *Species factsheet: Laniocera hypopyrra*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/cinereous-mourner-laniocera-hypopyrra.](http://datazone.birdlife.org/species/factsheet/cinereous-mourner-laniocera-hypopyrra) Acesso em 11 de abril de 2023.
 
 Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
@@ -69,6 +69,6 @@ Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-G
 
 IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
 
-Lima, L.M. (2013). Aves da Mata Atlântica: riqueza, composição, status, endemismos e conservação. tese de doutorado. Universidade de São Paulo.
+Lima, L.M. (2013). [*Aves da Mata Atlântica: riqueza, composição, status, endemismos e conservação*](https://doi.org/10.11606/D.41.2014.tde-17042014-091547).  Dissertação (Mestrado em Zoologia) - Instituto de Biociências, Universidade de São Paulo.
 
 Walther, B. (2020). [Cinereous Mourner (Laniocera hypopyrra)](https://doi.org/10.2173/bow.cinmou1.01). Em: *Birds of the World* (orgs. Billerman, S.M., Keeney, B.K., Rodewald, P.G. & Schulenberg, T.S.). Cornell Lab of Ornithology.

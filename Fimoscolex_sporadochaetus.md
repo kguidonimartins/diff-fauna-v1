@@ -27,7 +27,7 @@
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-*Fimoscolex sporadochaetus* é endêmica da Mata Atlântica e de Minas Gerais (Instituto Chico Mendes de Conservação da Biodiversidade 2018; Brown *et al.* 2023). Na bacia do Rio Doce, é conhecida para o Parque Estadual do Itacolomi, em Ouro Preto, e nos municípios de Mariana e Barão de Cocais.
+*Fimoscolex sporadochaetus* é endêmica da Mata Atlântica e de Minas Gerais (ICMBio 2018; Brown *et al.* 2023). Na bacia do Rio Doce, é conhecida para o Parque Estadual do Itacolomi, em Ouro Preto, e nos municípios de Mariana e Barão de Cocais.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
@@ -35,18 +35,15 @@ A espécie está presente nas seguintes unidades de conservação: PE do Itacolo
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022)
-
--   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: EN (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
 
 **CITES**: Não consta
 
-A espécie ocorre no Parque Estadual do Itacolomi e ações de conservação devem ser incluídas no plano de manejo do parque (Instituto Chico Mendes de Conservação da Biodiversidade 2018).
+A espécie ocorre no Parque Estadual do Itacolomi e ações de conservação devem ser incluídas no plano de manejo do parque (ICMBio 2018).
 
 ## PRINCIPAIS AMEAÇAS
 
@@ -58,14 +55,14 @@ Pesquisas básicas sobre tamanho populacional, distribuição, histórias de vid
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [**Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.**](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
 
-Brown, G.G., Brant, A., Garcia, L.M.H., Oliveira, M.M., Prado, M.U., Drumond, M.A., *et al.* (2023). [**Fimoscolex sporadochaetus Michaelsen, 1918**](https://salve.icmbio.gov.br). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Brown, G.G., Brant, A., Garcia, L.M.H., Oliveira, M.M., Prado, M.U., Drumond, M.A., *et al.* (2023). *Fimoscolex sporadochaetus Michaelsen, 1918*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.33838.2.](https://doi.org/10.37002/salve.ficha.33838.2) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Instituto Chico Mendes de Conservação da Biodiversidade. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume VII - Invertebrados. Em: *In: Instituto Chico Mendes de Conservação da Biodiversidade. (Org.). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção*. ICMBio, Brasília, p. 727.
+ICMBio. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume VII - Invertebrados. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (org. ICMBio). ICMBio, Brasília, p. 727.
 
 Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
 
-James, S.W. & Brown, G.G. (2010). [**Rediscovery of Fimoscolex Sporadochaetus Michaelsen 1918 (clitellata: glossoscolecidae), and considerations on the endemism and diversity of Brazilian earthworms.**](https://doi.org/10.21829/azm.2010.262877) *ACTA ZOOLÓGICA MEXICANA (N.S.)*, 26, 47--58.
+James, S.W. & Brown, G.G. (2010). [Rediscovery of Fimoscolex Sporadochaetus Michaelsen 1918 (clitellata: glossoscolecidae), and considerations on the endemism and diversity of Brazilian earthworms.](https://doi.org/10.21829/azm.2010.262877) *ACTA ZOOLÓGICA MEXICANA (N.S.)*, 26, 47--58.
